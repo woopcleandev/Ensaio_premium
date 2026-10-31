@@ -1,0 +1,6 @@
+{
+  "name": "Catálogos de Ensaios · Premium Ensaio",
+  "description": "Catálogo completo de ensaios fotográficos do Premium Ensaio com seleção de cenas e envio para WhatsApp (11) 92693-3436.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
